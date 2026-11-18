@@ -1,0 +1,16 @@
+,mean_abs_shap
+Contract_Month-to-month,0.6638
+tenure,0.4056
+OnlineSecurity_No,0.2404
+InternetService_Fiber optic,0.2184
+TechSupport_No,0.2037
+PaymentMethod_Electronic check,0.1759
+TotalCharges,0.1736
+MonthlyCharges,0.1444
+avg_monthly_spend,0.1417
+Contract_Two year,0.1304
+PaperlessBilling,0.1251
+MultipleLines_No,0.1091
+OnlineBackup_No,0.0676
+StreamingMovies_Yes,0.0661
+Contract_One year,0.0623
