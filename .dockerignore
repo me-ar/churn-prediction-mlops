@@ -1,0 +1,6 @@
+.git
+data/*.csv
+models/*.joblib
+reports
+tests
+__pycache__
