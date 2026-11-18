@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+data/*.csv
+models/*.joblib
+reports/test_predictions.csv
+.DS_Store
